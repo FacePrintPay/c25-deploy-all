@@ -37,3 +37,5 @@ if [ ${#FAILED_PROJECTS[@]} -gt 0 ]; then
 fi
 echo ""
 echo "🎉 Deployment complete!"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=deploy-all.sh
